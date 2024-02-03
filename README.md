@@ -1,4 +1,5 @@
-![image](https://github.com/sgsayani/HR-Analytics-Dashboard/assets/71175346/049dfa62-6b9e-4b9b-aa6d-94c6803cc9fa)# HR-Analytics-Dashboard
+
+
 🌐 Project Focus: 
 Elevating employee performance and retention through data-driven insights. In a world where people are the heart of any organization, I embarked on a journey to empower businesses to make informed decisions.
 
@@ -30,6 +31,8 @@ I chose Power BI for its robust capabilities in data visualization and seamless 
 - Dashboard in Power BI 
 - Export Power BI Dashboard
 - Insights from Dashboard 
+
+![Screenshot (421)](https://github.com/sgsayani/HR-Analytics-Dashboard/assets/71175346/4cf3d984-b652-455b-9f86-aa73b348d677)
 
 
 hashtag#HRAnalytics hashtag#PowerBI hashtag#EmployeePerformance hashtag#RetentionStrategies hashtag#DataDrivenDecisions
